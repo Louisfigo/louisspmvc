@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="louisspmvc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="louis.spmvc.war">
+      <element id="artifact" artifact-name="louisspmvc:war exploded" />
+    </root>
+  </artifact>
+</component>
