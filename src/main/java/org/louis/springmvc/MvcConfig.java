@@ -18,7 +18,7 @@ public class MvcConfig {
     {
         InternalResourceViewResolver internalResourceViewResolver = new InternalResourceViewResolver();
 
-        internalResourceViewResolver.setPrefix("/WEB-INF/classes/views");
+        internalResourceViewResolver.setPrefix("/WEB-INF/classes/views/");
 
         internalResourceViewResolver.setSuffix(".jsp");
 
